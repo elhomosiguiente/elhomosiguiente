@@ -1,6 +1,6 @@
 # Site settings
-title: Zachary Balder
-name: Zachary Balder
+title: elhomosiguiente
+name: elhomosiguiente
 
 # Build settings
 markdown: kramdown
@@ -9,9 +9,9 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
-   url: https://github.com/zbo14
+   url: https://github.com/elhomosiguiente
  - title: LinkedIn
-   url: https://www.linkedin.com/in/zachary-balder/
+   url: https://www.linkedin.com/in/elhomosiguiente/
 
 #Any buzzword skills you want to include
 skills:
